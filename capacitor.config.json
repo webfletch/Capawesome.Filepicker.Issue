@@ -1,0 +1,11 @@
+{
+  "appId": "com.example.app",
+  "appName": "Capacitor.Camera.Issues",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
